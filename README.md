@@ -8,7 +8,7 @@ I build AI applications that turn documents and data into useful, explainable ex
 
 **Python & TypeScript · RAG & LLM Applications · Full-Stack Development**
 
-[Projects](#project-portfolio) · [Email](mailto:oussemabraham2@gmail.com) · [GitHub](https://github.com/oussema7jh)
+[Projects](#project-portfolio) · [LinkedIn](https://www.linkedin.com/in/oussema-braham) · [Email](mailto:oussemabraham2@gmail.com) · [GitHub](https://github.com/oussema7jh)
 
 Tunis, Tunisia
 
@@ -123,7 +123,7 @@ _Private repository links are accessible only to authorized collaborators._
 
 ## Contact
 
-For project discussions and collaboration, reach me at **[oussemabraham2@gmail.com](mailto:oussemabraham2@gmail.com)**.
+For project discussions and collaboration, connect with me on **[LinkedIn](https://www.linkedin.com/in/oussema-braham)** or email **[oussemabraham2@gmail.com](mailto:oussemabraham2@gmail.com)**.
 
 ## Exploring next
 
