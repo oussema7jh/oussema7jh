@@ -22,6 +22,7 @@ I am an AI engineer focused on the parts of an AI system that decide whether it 
 | --- | --- |
 | **Retrieval & LLM applications** | Document chunking, embeddings, BM25, hybrid search, Reciprocal Rank Fusion, cited answers, evaluation sets |
 | **Machine learning** | Model training and comparison, ensemble methods, neural networks, SHAP explainability, audio classification |
+| **Data tools** | Pandas, NumPy, SQL, PostgreSQL, Supabase, DVC |
 | **MLOps & engineering** | Reproducible DVC pipelines, Docker, automated tests, evaluation and checks in CI |
 | **Full-stack development** | FastAPI, background workers, React, Next.js, TypeScript, Supabase |
 
@@ -81,6 +82,9 @@ These repositories are private, so the code is available to authorized collabora
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
