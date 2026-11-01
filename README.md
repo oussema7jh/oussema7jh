@@ -8,7 +8,7 @@ I build AI applications that turn documents and data into useful, explainable ex
 
 **Python & TypeScript · RAG & LLM Applications · Full-Stack Development**
 
-[Explore my projects](https://github.com/oussema7jh?tab=repositories) · [Discover nanorag](https://github.com/oussema7jh/nanorag)
+[Projects](#project-portfolio) · [Email](mailto:oussemabraham2@gmail.com) · [GitHub](https://github.com/oussema7jh)
 
 Tunis, Tunisia
 
@@ -25,7 +25,7 @@ I'm focused on the engineering behind useful AI: how information is retrieved, h
 - **Product development:** Python services and React / TypeScript applications.
 - **Engineering practice:** reproducible workflows, automated tests, and evaluation in CI.
 
-## Selected projects
+## Project portfolio
 
 ### [nanorag](https://github.com/oussema7jh/nanorag)
 **A RAG pipeline built from scratch in pure Python.**
@@ -59,6 +59,53 @@ A Next.js application and Python worker that turn uploaded CVs into structured p
 
 [Explore the project →](https://github.com/oussema7jh/Junior-Entreprise-Cv-Extractor)
 
+## More projects
+
+### BuzzGuard · Acoustic Mosquito Detection
+**MLOps · Audio Classification · Python · FastAPI · DVC · Docker**
+
+An end-to-end course project that detects mosquito-like sound in uploaded WAV recordings and explores classification of supported species. The workflow covers audio feature extraction, grouped train/validation/test splits, model comparison, reproducible DVC pipelines, experiment records, an inference API, and container packaging. It connects machine learning experimentation with serving and automated checks.
+
+**Repository:** private — [MLOPS-project](https://github.com/oussema7jh/MLOPS-project).
+
+---
+
+### Machine Learning Models & Performance Comparison
+**Python · scikit-learn · TensorFlow / Keras · XGBoost**
+
+A university project comparing supervised and unsupervised learning methods, including Naive Bayes, decision trees, random forests, XGBoost, PCA, K-Means, and neural networks. Includes an F1 strategy dataset and scripts that generate analysis reports, bringing model implementation and comparative analysis into one workflow.
+
+**Repository:** private — [ml-project-oussema-braham](https://github.com/oussema7jh/ml-project-oussema-braham).
+
+---
+
+### Medical Document Assistant Using RAG
+**Planned academic prototype · Document Retrieval · Grounded Answers**
+
+A planned assistant designed to answer questions from an approved document collection, provide document and page citations, and abstain when the evidence is missing. My planned responsibilities cover ingestion, indexing, retrieval, code review, and final integration. The repository currently contains planning and collaboration documents; implementation is upcoming. Academic prototype, not for medical use.
+
+**Repository:** private — [medical-document-assistant-rag](https://github.com/oussema7jh/medical-document-assistant-rag).
+
+---
+
+### NEON PROTOCOL · Cyberpunk Runner
+**React · Vite · Canvas 2D · Web Audio**
+
+A browser-based endless runner with a custom Canvas 2D engine, procedural city scenery, particles, collision handling, and an increasing difficulty curve. A generative Web Audio synth produces the soundtrack and effects, while React handles menus, game state, and the interface. Supports keyboard and touch controls with locally saved best runs.
+
+**Repository:** private — [cyberpunk-game](https://github.com/oussema7jh/cyberpunk-game).
+
+---
+
+### Derby · Sportswear E-Commerce
+**E-Commerce · Responsive Web Experience**
+
+A sportswear shopping project focused on football jerseys, shorts, and sports apparel, with an emphasis on a simple, responsive, and easy-to-use shopping experience.
+
+**Repository:** private — [derby-ecommerce](https://github.com/oussema7jh/derby-ecommerce).
+
+_Private repository links are accessible only to authorized collaborators._
+
 ## Technology & tools
 
 <p>
@@ -73,6 +120,10 @@ A Next.js application and Python worker that turn uploaded CVs into structured p
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
+
+## Contact
+
+For project discussions and collaboration, reach me at **[oussemabraham2@gmail.com](mailto:oussemabraham2@gmail.com)**.
 
 ## Exploring next
 
