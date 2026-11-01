@@ -1,66 +1,89 @@
 <div align="center">
 
-# Oussema Braham
+# Hi, I'm Oussema Braham
 
-**AI Engineer** · Retrieval systems · LLM applications · Python & TypeScript
+### AI Engineer · Retrieval Systems · Applied Machine Learning
+
+I build AI applications that turn documents and data into useful, explainable experiences.
+
+**Python & TypeScript · RAG & LLM Applications · Full-Stack Development**
+
+[Explore my projects](https://github.com/oussema7jh?tab=repositories) · [Discover nanorag](https://github.com/oussema7jh/nanorag)
+
+Tunis, Tunisia
 
 </div>
 
 ---
 
-### What I do
+## About me
 
-I build applied-AI systems with a bias for **understanding the internals** —
-frameworks are fine, but I want to know what they hide.
+I'm focused on the engineering behind useful AI: how information is retrieved, how answers are grounded, and how systems are evaluated. I enjoy building from first principles and connecting AI backends to clear, practical interfaces.
 
-- **RAG pipelines** — chunking strategies, embeddings, hybrid retrieval (BM25 + dense), reranking, evaluation
-- **LLM applications** — provider-agnostic generation layers, prompt contracts, citations & grounding
-- **Evaluation-driven development** — golden sets, recall@k / MRR / citation metrics in CI
-- **Full-stack delivery** — Python backends, React/TypeScript frontends, games & interactive UIs
+- **Retrieval & generation:** document chunking, embeddings, BM25, hybrid search, and cited answers.
+- **Applied machine learning:** model training, ensemble methods, and explainability.
+- **Product development:** Python services and React / TypeScript applications.
+- **Engineering practice:** reproducible workflows, automated tests, and evaluation in CI.
 
-### Featured project
+## Selected projects
 
-#### [nanorag](https://github.com/oussema7jh/nanorag) — Retrieval-Augmented Generation, from scratch
+### [nanorag](https://github.com/oussema7jh/nanorag)
+**A RAG pipeline built from scratch in pure Python.**
 
-[![CI](https://github.com/oussema7jh/nanorag/actions/workflows/ci.yml/badge.svg)](https://github.com/oussema7jh/nanorag/actions/workflows/ci.yml)
-![Python](https://img.shields.io/badge/python-3.9%2B-00f0ff?logo=python&logoColor=white)
-![Dependencies](https://img.shields.io/badge/dependencies-0-ff2bd6)
+Document ingestion, feature-hashing embeddings, persistent vector storage, BM25 + vector retrieval with Reciprocal Rank Fusion, and grounded answers with citations. Runs offline with an extractive provider and supports OpenAI, Anthropic, and Ollama.
 
-A complete RAG stack with **zero runtime dependencies** — every layer implemented
-from first principles and evaluated:
+**Why explore it:** a readable implementation of the retrieval and generation stack, with zero runtime dependencies and a bundled evaluation set.
 
-`chunking → hashed n-gram embeddings → vector store → BM25 + dense hybrid retrieval (RRF fusion) → grounded & cited generation → golden-set evals (recall@5: 100% · MRR: 0.975)`
+[![Tests](https://github.com/oussema7jh/nanorag/actions/workflows/tests.yml/badge.svg)](https://github.com/oussema7jh/nanorag/actions/workflows/tests.yml)
+[View code & quickstart →](https://github.com/oussema7jh/nanorag#quickstart)
 
-Runs fully offline with an extractive provider; swaps to OpenAI / Anthropic / Ollama
-behind a provider protocol without touching the pipeline.
+---
 
-### Also building
+### [DiaPredict AI](https://github.com/oussema7jh/diapredict)
+**An explainable machine learning web application.**
 
-- **NEON PROTOCOL** — a cyberpunk endless-runner browser game: React + Vite, a hand-rolled
-  canvas 2D engine (physics, particles, procedural city) and a generative WebAudio
-  synthwave soundtrack. Zero game assets, zero game engines.
+An educational diabetes-risk prediction project combining classical ML models, a PyTorch neural network, and SHAP explanations through a FastAPI backend and React interface.
 
-### Toolbox
+**What it brings together:** model training, ensemble inference, interpretable predictions, and a complete user interface. Educational and research prototype only; not for medical decisions.
+
+[Explore the project →](https://github.com/oussema7jh/diapredict)
+
+---
+
+### [CV Extractor · Pristini JE](https://github.com/oussema7jh/Junior-Entreprise-Cv-Extractor)
+**AI-assisted CV processing for a job-fair platform.**
+
+A Next.js application and Python worker that turn uploaded CVs into structured profiles. Candidates review their information, while companies search profiles and use QR codes at the fair.
+
+**What it brings together:** document extraction, embeddings, background processing, and a shared Supabase database.
+
+[Explore the project →](https://github.com/oussema7jh/Junior-Entreprise-Cv-Extractor)
+
+## Technology & tools
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
-<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/Supabase-181818?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-### Currently learning
+## Exploring next
 
-Agentic orchestration (planning loops, tool use) · reranking models · vector DB internals
+Agent orchestration and tool use · reranking models · vector database internals
 
 ---
 
 <div align="center">
-<a href="https://github.com/oussema7jh?tab=repositories">repos</a> ·
-tunis, tn · building in public
+
+**From retrieval internals to usable AI applications.**
+
+[Browse all repositories](https://github.com/oussema7jh?tab=repositories)
+
 </div>
